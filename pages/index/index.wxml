@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo" bindtap="uploadImg">
+    上传图片
+  </view>
+</view>
